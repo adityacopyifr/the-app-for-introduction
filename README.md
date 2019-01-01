@@ -1,2 +1,2 @@
 # the-app-for-introduction
-system app that automatically takes a photo and your location and save it in the local stoage 
+this app takes the photo and saves it in the media database but by the help of the firebase you wil be able to ge the picture to the other phone
